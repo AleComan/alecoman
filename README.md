@@ -9,8 +9,9 @@ Me apasiona el análisis de datos, la inteligencia artificial y el desarrollo de
 
 ## 🧑‍💼 Experiencia
 
-Becario en Management Solutions — Madrid (septiembre 2025 – actualidad)
-Trabajo en un proyecto de implantación de Oracle EPM, participando en el desarrollo y despliegue de una herramienta de presupuestación para una empresa aseguradora. Mis tareas incluyen integración de datos, parametrización funcional y soporte en la puesta en marcha del sistema.
+- **Becario en Management Solutions** — *Madrid (septiembre 2025 – actualidad)*
+
+Trabajo en un proyecto de implantación de **Oracle EPM** para una empresa aseguradora. Trabajo con **SQL** para la ingesta y transformación de datos desde distintos orígenes y con **CalcScript** y **Groovy** para la lógica de negocio y manejo interno de los datos en la propia herramienta, dentro de un entorno de **metodologías Agile**.
 
 ---
 
