@@ -25,6 +25,7 @@ Trabajo en un proyecto de implantación de **Oracle EPM** para una empresa asegu
 
 ## 📂 Proyectos destacados
 🔹 [Trabajo de Fin de Grado](https://github.com/AleComan/TFG-INF) — Análisis de sesgos en Inteligencias Artificiales Generativas Textuales
+
 🔹 [BORME Pipeline](https://github.com/AleComan/BORME-Pipeline) — Pipeline en 4 fases para adquirir y transformar información del BORME
 
 ---
