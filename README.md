@@ -1,6 +1,6 @@
 # 👋 Hola, soy Alejandro
 
-Soy graduado en **Ingeniería Informática** y en **Administración y Dirección de Empresas** por la **Universidad de Granada**.  
+Soy graduado en **Ingeniería Informática** y en **Administración y Dirección de Empresas** por la **Universidad de Granada (UGR)**.  
 Estoy actualmente cursando el **Máster en Big Data y Analítica Avanzada** en la **Universidad Pontificia Comillas (ICAI, Madrid)**.  
 
 ---
@@ -30,7 +30,7 @@ Trabajo en un proyecto de implantación de **Oracle EPM** para una empresa asegu
 
 ## 🎓 Formación
 - **Máster en Big Data y Analítica Avanzada** — Universidad Pontificia Comillas (ICAI, Madrid) *(en curso)*  
-- **Doble Grado en Ingeniería Informática y ADE** — Universidad de Granada  
+- **Doble Grado en Ingeniería Informática y ADE** — Universidad de Granada (UGR)
 
 ---
 
