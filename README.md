@@ -1,42 +1,54 @@
-# 👋 ¡Hola, soy Alejandro!
+# 👋 ¡Hola, soy Alejandro Coman!
 
-Soy graduado en **Ingeniería Informática** y en **Administración y Dirección de Empresas** por la **Universidad de Granada (UGR)**.  
-Estoy actualmente cursando el **Máster en Big Data y Analítica Avanzada** en la **Universidad Pontificia Comillas (ICAI, Madrid)**.  
+Graduado en **Ingeniería Informática** y **Administración y Dirección de Empresas (ADE)** por la **Universidad de Granada**, con un **Máster en Big Data** por la **Universidad Pontificia Comillas (ICAI)**. 
 
----
-
-Me apasiona el análisis de datos, la inteligencia artificial y el desarrollo de soluciones tecnológicas con impacto real.
-
-## 🧑‍💼 Experiencia
-
-- **Becario en Management Solutions** — *Madrid (septiembre 2025 – actualidad)*
-
-Trabajo en un proyecto de implantación de **Oracle EPM** para una empresa aseguradora. Trabajo con **SQL** para la ingesta y transformación de datos desde distintos orígenes y con **CalcScript** y **Groovy** para la lógica de negocio y manejo interno de los datos en la propia herramienta, dentro de un entorno de **metodologías Agile**.
+Me especializo en el diseño e implantación de arquitecturas de datos, soluciones tecnológicas orientadas al negocio y desarrollo de pipelines eficientes. Combino capacidades técnicas avanzadas con una visión estratégica para transformar datos complejos en palancas de decisión corporativa.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
-- Lenguajes: Python, SQL, C++
-- Big Data & Data Science: Spark, Hadoop, Pandas, Scikit-learn
-- Bases de datos: Oracle, MySQL
-- Otros: Git/GitHub, Docker, Linux
+## 🛠️ Tecnologías y Herramientas
+
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Big Data & Cloud** | Apache Spark, Kafka Streams, NiFi, HDFS, Databricks, Oracle Cloud EPM |
+| **ML & Data Science** | Scikit-learn, XGBoost, Pandas, NumPy, TensorFlow, PyTorch, Hugging Face |
+| **Lenguajes** | Python, SQL, Java, C++, Scala, Groovy, CalcScript |
+| **Entornos & DevOps** | Linux (Terminal/Bash), Docker, Git/GitHub, Anaconda, Jira, Confluence |
 
 ---
 
-## 📂 Proyectos destacados
-- [Trabajo de Fin de Grado](https://github.com/AleComan/TFG-INF) — Análisis de sesgos en Inteligencias Artificiales Generativas Textuales
-- [BORME Pipeline](https://github.com/AleComan/BORME-Pipeline) — Pipeline en 4 fases para adquirir y transformar información del BORME
+## 🧑‍💼 Experiencia Destacada
+
+### 🔹 Prácticas Formativas en Management Solutions
+*Madrid (Septiembre 2025 – Junio 2026)*
+- **Implantación Tecnológico-Funcional:** Integración en un equipo multidisciplinar de más de 10 personas para el despliegue de un sistema de presupuestación financiera (SaaS) en el sector asegurador bajo marco **Agile (Jira/Confluence)**.
+- **Arquitectura y Desarrollo:** Configuración sobre **Oracle Cloud EPM** (*Planning* y *Narrative Reporting*), modelado dimensional en cubos **OLAP**, y desarrollo de lógica de negocio avanzada con **Groovy y CalcScript**.
+- **Ingesta e Integración:** Desarrollo de consultas **SQL** complejas y automatización de pipelines de datos mediante scripts conectados a **APIs REST** y tareas de *Data Analytics*.
 
 ---
 
-## 🎓 Formación
-- **Máster en Big Data y Analítica Avanzada** — Universidad Pontificia Comillas (ICAI, Madrid) *(en curso)*  
-- **Doble Grado en Ingeniería Informática y ADE** — Universidad de Granada (UGR)
+## 📂 Proyectos Destacados
+
+*   **[Diseño de Arquitectura EPM Corporativa](https://github.com/AleComan/)** — Trabajo Fin de Máster (TFM) enfocado en el diseño de una arquitectura de planificación y reporting corporativo basado en Oracle Fusion Cloud EPM Planning.
+*   **[BORME Pipeline](https://github.com/AleComan/BORME-Pipeline)** — Pipeline robusto en 4 fases diseñado para adquirir, procesar y transformar de manera eficiente la información del Boletín Oficial del Registro Mercantil.
+*   **[Trabajo de Fin de Grado](https://github.com/AleComan/TFG-INF)** — Investigación y análisis de sesgos en Inteligencias Artificiales Generativas Textuales (LLMs).
 
 ---
 
-## 📫 Contacto
-- LinkedIn: [aleecv](https://www.linkedin.com/in/aleecv)  
-- Email: [alejandrocomanvencesla@gmail.com](mailto:alejandrocomanvencesla@gmail.com)  
+## 🎓 Formación Académica
+
+*   **Máster Universitario en Big Data** — *Universidad Pontificia Comillas (ICAI, Madrid)*
+*   **Doble Grado en Ingeniería Informática y ADE** — *Universidad de Granada (UGR)*
+*   **Programa de Intercambio Internacional** — *Technische Universität München (TUM, Alemania)*
 
 ---
+
+## 📫 Conecta conmigo
+<p align="left">
+  <a href="https://www.linkedin.com/in/aleecv" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:alejandrocomanvencesla@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
