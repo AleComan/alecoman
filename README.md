@@ -29,7 +29,6 @@ Me especializo en el diseño e implantación de arquitecturas de datos, solucion
 
 ## 📂 Proyectos Destacados
 
-*   **[Diseño de Arquitectura EPM Corporativa](https://github.com/AleComan/)** — Trabajo Fin de Máster (TFM) enfocado en el diseño de una arquitectura de planificación y reporting corporativo basado en Oracle Fusion Cloud EPM Planning.
 *   **[BORME Pipeline](https://github.com/AleComan/BORME-Pipeline)** — Pipeline robusto en 4 fases diseñado para adquirir, procesar y transformar de manera eficiente la información del Boletín Oficial del Registro Mercantil.
 *   **[Trabajo de Fin de Grado](https://github.com/AleComan/TFG-INF)** — Investigación y análisis de sesgos en Inteligencias Artificiales Generativas Textuales (LLMs).
 
@@ -39,7 +38,7 @@ Me especializo en el diseño e implantación de arquitecturas de datos, solucion
 
 *   **Máster Universitario en Big Data** — *Universidad Pontificia Comillas (ICAI, Madrid)*
 *   **Doble Grado en Ingeniería Informática y ADE** — *Universidad de Granada (UGR)*
-*   **Programa de Intercambio Internacional** — *Technische Universität München (TUM, Alemania)*
+*   **Programa de Intercambio Internacional (ERASMUS+)** — *Technische Universität München (TUM, Alemania)*
 
 ---
 
