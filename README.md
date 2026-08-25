@@ -1,30 +1,40 @@
 # Alejandro Coman
 
-Software Engineer focused on backend systems, data pipelines, and applied machine learning.  
-Dual degree in **Computer Science & Business Administration** (University of Granada / TU Munich) and **M.S. in Big Data & Data Engineering** (Comillas ICAI).
+Software & Data Engineer specializing in backend systems, distributed data pipelines, and applied machine learning.  
+Dual Degree in **Computer Science & Business Administration** (UGR / TU Munich) | **M.S. in Big Data & Data Engineering** (Comillas ICAI).
+
+📍 *Madrid, Spain* · 💼 *Technology Consultant at Management Solutions*
 
 ---
 
 ## 🛠 Tech Stack
 
-- **Languages:** Python, C++, Java, SQL, Kotlin, C, Bash
-- **Data & Distributed Systems:** Apache Kafka, Apache Spark, HDFS, Elasticsearch, Hive, DynamoDB, MongoDB, PostgreSQL/MySQL, Redis
-- **ML & Data Science:** PyTorch, Scikit-Learn, Hugging Face, OpenCV, Pandas, NumPy
-- **Backend & Cloud:** FastAPI, Docker, AWS (S3, Lambda, CloudWatch), Linux, Git, CI/CD
+- **Core Languages:** Python, C++, Java, SQL, Bash
+- **Data & Distributed Systems:** Apache Kafka, Apache Spark, HDFS, Elasticsearch, PostgreSQL, MongoDB, Redis
+- **Machine Learning & AI:** PyTorch, Scikit-Learn, Hugging Face, OpenCV, Weights & Biases
+- **Cloud & Backend:** FastAPI, Docker, AWS (S3, Lambda, CloudWatch), Linux/POSIX, Git
 
 ---
 
-## 📂 Projects
+## 📂 Featured Projects
+
+### [ASL Classifier & Generative Framework](https://github.com/AleComan/signlanguage-classifier)
+*Computer vision pipeline for American Sign Language recognition and text-to-sign generation.*
+- Benchmarked ResNet18 fine-tuning (**99.86% val accuracy**), custom CNNs, and classical ML baselines using **Weights & Biases**.
+- Built a conditional **cGAN** to synthesize gesture sequences into animated GIFs, deployed on an interactive **Streamlit** dashboard.
+- *Tech:* `Python` · `PyTorch` · `Torchvision` · `Streamlit` · `W&B`
 
 ### [BORME Ingestion Pipeline](https://github.com/AleComan/BORME-Pipeline)
-*End-to-end data pipeline to extract and normalize official corporate filings from the Spanish Official Gazette (BORME).*
-- Built a 4-phase ETL pipeline (**Spider → Fetcher → Crawler → Wrangler**) to automatically download and parse high-volume regulatory PDFs.
-- Handled text extraction, edge-case parsing with regex heuristics, and transformed unstructured legal text into clean, structured CSV/SQL formats.
+*Automated 4-stage ETL architecture to ingest and structure official Spanish gazette records (BORME).*
+- Designed a modular **Spider → Fetcher → Crawler → Wrangler** pipeline handling high-volume daily PDF acquisition.
+- Parsed unstructured legal filings into normalized tabular CSV schemas using robust regex heuristics.
+- *Tech:* `Python` · `BeautifulSoup4` · `PyMuPDF` · `Logging`
 
-### [LLM Bias & Sentiment Profiler (Undergrad Thesis)](https://github.com/AleComan/TFG-INF)
-*Benchmarking framework to measure sentiment shift and bias across open-source and proprietary LLMs.*
-- Set up automated concurrent querying pipelines via OpenRouter API across multiple model families.
-- Analyzed and scored responses across topics using lexical metrics (TF-IDF, VADER) and comparative statistical analysis in Python.
+### [LLM Bias & Sentiment Profiler](https://github.com/AleComan/TFG-INF) *(Undergrad Thesis)*
+*Benchmarking framework to quantify sentiment shift and subjectivity across open-source and proprietary LLMs.*
+- Orchestrated high-concurrency model querying via **OpenRouter API** across diverse Foundation LLMs.
+- Computed lexical divergence and bias drift using **TF-IDF**, **VADER**, and comparative statistical anomaly analysis.
+- *Tech:* `Python` · `NLP` · `REST APIs` · `Pandas` · `Scikit-Learn`
 
 ---
 
@@ -32,22 +42,22 @@ Dual degree in **Computer Science & Business Administration** (University of Gra
 
 ### Data & Tech Consultant / Intern — Management Solutions
 *Madrid, Spain | Sept 2025 – June 2026*
-- Implemented financial business logic and automated calculations on Oracle Cloud EPM using Groovy, CalcScript, and SQL.
-- Built data integration scripts and scheduled ingestion routines connecting external databases via REST APIs.
-- Worked within an Agile/Scrum environment, participating in bi-weekly sprints, code reviews, and cross-functional team delivery.
+- Implemented financial computation algorithms on Oracle Cloud EPM using Groovy, CalcScript, and SQL.
+- Automated asynchronous data integration pipelines via REST APIs, streamlining transactional insurance flows.
+- Collaborated in a cross-functional Scrum team delivering bi-weekly production releases.
 
 ---
 
 ## 🎓 Education
 
 - **M.S. in Big Data & Data Engineering** — Comillas Pontifical University (ICAI) `2025 – 2026`
-- **Double Degree in Computer Science & Business Administration** — Universidad de Granada `2020 – 2025`
-- **Exchange Year (Erasmus+) in Informatics** — Technical University of Munich (TUM) `2023 – 2024`
+- **B.S. in Computer Science & B.B.A. (Doble Grado)** — Universidad de Granada `2020 – 2025`
+- **Informatics Exchange (Erasmus+)** — Technical University of Munich (TUM) `2023 – 2024`
 
 ---
 
 ## 📫 Contact
 
 - **LinkedIn:** [linkedin.com/in/aleecv](https://linkedin.com/in/aleecv)
-- **Email:** [alejandrocomanvencesla@gmail.com](mailto:alejandrocomanvencesla@gmail.com)
 - **GitHub:** [github.com/AleComan](https://github.com/AleComan)
+- **Email:** [alejandrocomanvencesla@gmail.com](mailto:alejandrocomanvencesla@gmail.com)
