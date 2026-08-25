@@ -10,7 +10,7 @@ Dual Degree in **Computer Science & Business Administration** (UGR / TU Munich) 
 ## 🛠 Tech Stack
 
 - **Core Languages:** Python, C++, Java, SQL, Bash
-- **Data & Distributed Systems:** Apache Kafka, Apache Spark, HDFS, Elasticsearch, PostgreSQL, MongoDB, Redis
+- **Data & Distributed Systems:** Apache Kafka, Apache Spark, HDFS, Elasticsearch, PostgreSQL, MongoDB
 - **Machine Learning & AI:** PyTorch, Scikit-Learn, Hugging Face, OpenCV, Weights & Biases
 - **Cloud & Backend:** FastAPI, Docker, AWS (S3, Lambda, CloudWatch), Linux/POSIX, Git
 
